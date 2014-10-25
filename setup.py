@@ -17,7 +17,7 @@ setup(
                     'optimize': 2,
                     'dist_dir': './dist',
                     'bundle_files': 1,
-                    'includes': ['twisted']
+                    'includes': ['twisted', 'zope.interface', 'zope']
                     }
         },
         zipfile = None,
