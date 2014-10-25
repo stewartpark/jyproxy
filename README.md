@@ -11,7 +11,7 @@ However, by just adding a newline in front of the HTTP method part, the filterin
 
 ### How to use
 
-Launch the app(jyproxy.exe), go to the HTTP Proxy setting and enter localhost:8080. Yes, simple as that.
+Launch the app(jyproxy.exe), go to the HTTP Proxy setting, and enter localhost:8080. Yes, simple as that.
 
 ### Download links
 
